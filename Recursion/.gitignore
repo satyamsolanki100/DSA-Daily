@@ -1,2 +1,0 @@
-*.class
-git rm --cached -r *.class
