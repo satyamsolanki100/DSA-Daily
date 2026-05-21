@@ -1,1 +1,1 @@
-LRUCache
+LFUCache
