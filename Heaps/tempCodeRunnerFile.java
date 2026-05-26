@@ -1,1 +1,1 @@
-CheckMinHeap 
+HandOfStraights
